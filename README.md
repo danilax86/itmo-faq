@@ -17,4 +17,4 @@
 
 
 
-<a style='text-align: right;' href="authors.md">authors</a>
+[authors](authors.md)
