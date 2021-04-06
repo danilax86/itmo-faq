@@ -4,3 +4,4 @@
 
 - [yank0vy3rdna](http://yank0vy3rdna.ru/)
 - [Polina](https://vk.com/polinausui)
+- [omgronny](t.me/ohmygod_ronny)
