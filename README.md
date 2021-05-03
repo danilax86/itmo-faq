@@ -21,9 +21,9 @@
 
 ## Учебные планы:
 
-- [ПИ(СППО)](https://edu.itmo.ru/file/subspec/3925/09.03.04_sistemnoe_i_prikladnoe_programmnoe_obespechenie.pdf)
+- [ПИ(СППО)](https://eduold-prod.itmo.dev/file/subspec/4283/09.03.04_sistemnoe_i_prikladnoe_programmnoe_obespechenie.pdf)
 
-- [ИВТ](https://edu.itmo.ru/file/subspec/3922/09.03.01_kompyuternye_sistemy_i_tehnolgii.pdf)
+- [ИВТ](https://eduold-prod.itmo.dev/file/subspec/4285/09.03.01_kompyuternye_sistemy_i_tehnologii.pdf)
 
 ## Вкусное🥳
 Нашу образовательну программу хотят модернизировать! Почитать о всём процессе можно в [телеграм-канале](https://t.me/reducks)
