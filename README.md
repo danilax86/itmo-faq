@@ -21,9 +21,7 @@
 
 ## Учебные планы:
 
-- [ПИ(СППО)](https://eduold-prod.itmo.dev/file/subspec/4283/09.03.04_sistemnoe_i_prikladnoe_programmnoe_obespechenie.pdf)
-
-- [ИВТ](https://eduold-prod.itmo.dev/file/subspec/4285/09.03.01_kompyuternye_sistemy_i_tehnologii.pdf)
+- [Учебный план 2021](https://docs.google.com/spreadsheets/d/1PBi5BSrw73NFQ0Ka-pY3XX13VAnP9QBJ_bMS3Tm_u9A/edit?usp=sharing)
 
 ## Вкусное🥳
 Нашу образовательну программу хотят модернизировать! Почитать о всём процессе можно в [телеграм-канале](https://t.me/reducks)
